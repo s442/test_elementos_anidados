@@ -1,0 +1,108 @@
+{
+    "elementosAnidados": [
+        {
+            "uid": "",
+            "hijo": "NONE",
+            "padre": "CREDENCIALES",
+            "title": {
+                "es.ES": "CONTAINER ELEMENTOS ANIDADOS"
+            },
+            "elementosAnidados": [
+                {
+                    "uid": "",
+                    "hijo": "NONE",
+                    "padre": "CREDENCIALES",
+                    "title": {
+                        "es.ES": "CONTAINER LOGROS"
+                    },
+                    "elementosAnidados": [
+                        {
+                            "uid": "e344a921-960a-4491-bd54-cc515789e1b0",
+                            "hijo": "LOGRO",
+                            "padre": "CREDENCIALES",
+                            "title": {
+                                "es.ES": "LOGRO 1"
+                            },
+                            "elementosAnidados": [
+                                {
+                                    "uid": "a351a0d3-8744-422e-8378-687056249395",
+                                    "hijo": "ORGANIZACION",
+                                    "padre": "LOGRO",
+                                    "title": {
+                                        "es.ES": "ORGANIZACION 1"
+                                    },
+                                    "elementosAnidados": []
+                                },
+                                {
+                                    "uid": "12f7a52e-85fd-4505-9209-cbd89e14a7dd",
+                                    "hijo": "ORGANIZACION",
+                                    "padre": "LOGRO",
+                                    "title": {
+                                        "es.ES": "ORGANIZACION 1"
+                                    },
+                                    "elementosAnidados": []
+                                }
+                            ] 
+                        },
+                        {
+                            "uid": "44c15904-1659-4b08-bcab-555ce3c6131d",
+                            "hijo": "LOGRO",
+                            "padre": "CREDENCIALES",
+                            "title": {
+                                "es.ES": "LOGRO 1"
+                            },
+                            "elementosAnidados": []      
+                        },
+                        {
+                            "uid": "d2bdfeb1-43a8-4d55-a753-daece30a459d",
+                            "hijo": "LOGRO",
+                            "padre": "CREDENCIALES",
+                            "title": {
+                                "es.ES": "LOGRO 1"
+                            },
+                            "elementosAnidados": []      
+                        }
+                    ] 
+                },
+                {
+                    "uid": "",
+                    "hijo": "NONE",
+                    "padre": "CREDENCIALES",
+                    "title": {
+                        "es.ES": "CONTAINER ACTIVIDADES"
+                    },
+                    "elementosAnidados": [
+                        {
+                            "uid": "a9121168-078d-4def-94c7-5289b96f4fe4",
+                            "hijo": "ACTIVIDAD",
+                            "padre": "CREDENCIALES",
+                            "title": {
+                                "es.ES": "ACTIVIDAD 1"
+                            },
+                            "elementosAnidados": []      
+                        },
+                        {
+                            "uid": "8083a663-2f52-4818-9ec6-02a0a318a529",
+                            "hijo": "ACTIVIDAD",
+                            "padre": "CREDENCIALES",
+                            "title": {
+                                "es.ES": "ACTIVIDAD 2"
+                            },
+                            "elementosAnidados": []      
+                        },
+                        {
+                            "uid": "01027ecc-da35-4b2c-8486-e6d681bd87a1",
+                            "hijo": "ACTIVIDAD",
+                            "padre": "CREDENCIALES",
+                            "title": {
+                                "es.ES": "ACTIVIDAD 3"
+                            },
+                            "elementosAnidados": []      
+                        }
+                        
+                    ]
+                }
+            ]
+        }
+    ]
+}
